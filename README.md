@@ -1,39 +1,29 @@
-<p align="center">
-    <img src="https://i.ibb.co/hgdhRLY/logo.png" alt="Helmku logo" width="75" height="75">
-</p>
+<h1 align="center">CodeIgniter Online Shop</h1>
 
-<h1 align="center">HelmKu</h1>
-
-<p>
-  Helmku adalah sebuah e-commerce toko helm.
-</p>
 
 <br>
 
-## 🎨 Tampilan website
+## ✨ Requirement
 
-![home](https://i.ibb.co/CBsnysW/image.png)
+- PHP 8.1.0
+- XAMPP 
+- Composer
+
 <br>
-![dashboard](https://i.ibb.co/M67KQsN/image.png)
 
-## 🎡 Teknologi
-
-- Bootstrap 5
-- Codeigniter 4
-- jQuery
-- Admin template Stisla
-
-## 🛠 Cara pemasangan
-- Clone repo https://github.com/ridhoadtyaa/helmku di /c/xampp/htdocs.
-- Nyalakan XAMPP, dan import file sql yang sudah di sediakan.
-- Buka terminal dan jalankan perintah "php spark serve".
+## 🛠 Installation & Set Up
+- Install Xampp dan Composer.
+- Clone/Download Repo dan simpan di folder /c/xampp/htdocs.
+- Nyalakan XAMPP, Start Service Apache dan MySQL.
+- Buka browser dan ketikkan http://localhost/phpmyadmin/ di url.
+- Import File SQL yang sudah di sediakan.
+- Buka Terminal atau CMD dan arahkan ke root folder project.
+- Ketikkan perintah ```composer install``` dan tunggu sampai selesai.
+- Ketikkan perintah ```php spark serve``` dan tunggu sampai selesai.
 - Pergi ke browser dan buka http://localhost:8080/.
 
-## 👨🏻‍🤝‍👨🏻 Developer
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/ridhoadtyaa"><img src="https://avatars.githubusercontent.com/u/74553877?v=4" width="100px;" alt=""/><br /><sub><b>Ridho Aditya Nurtama</b></sub></a></td>
-    <td align="center"><a href="https://github.com/zelsaddr"><img src="https://avatars.githubusercontent.com/u/38206617?v=4" width="100px;" alt=""/><br /><sub><b>Izzeldin Addarda</b></sub></a></td>
-  </tr>
-</table>
+<br> 
 
+## 📝 Credit
+
+- [RidhoAditya](https://github.com/ridhoadtyaa/helmku)
